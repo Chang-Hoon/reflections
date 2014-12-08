@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need it?
+	A hidden directoy named '.git' is created. It is needed to initialize the git set up.
