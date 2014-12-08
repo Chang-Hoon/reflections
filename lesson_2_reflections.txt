@@ -4,3 +4,6 @@ What happens when you initialize a repository? Why do you need it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area keeps files to be committed onto repository as a logical group while working directly has files which are on-going or not included in the logical group (work package).
 	It is handy for separating tasks logically and maintain correcly on git.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    Add only files to do with the current task and have them on the staging area to do commit.
