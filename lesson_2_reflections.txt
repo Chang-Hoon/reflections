@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need it?
 	A hidden directoy named '.git' is created. It is needed to initialize the git set up.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area keeps files to be committed onto repository as a logical group while working directly has files which are on-going or not included in the logical group (work package).
+	It is handy for separating tasks logically and maintain correcly on git.
